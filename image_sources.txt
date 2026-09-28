@@ -5,16 +5,16 @@ tony: https://akm-img-a-in.tosshub.com/indiatoday/images/story/202503/6-years-af
 steve: https://i.pinimg.com/736x/90/a6/74/90a674ef44bfd40f0aa2b1c673c2d5ad.jpg
 thor: https://www.looper.com/img/gallery/the-critical-response-to-thor-love-and-thunder-might-surprise-you/intro-1657046894.jpg
 hulk: https://www.looper.com/img/gallery/the-best-decisions-the-hulk-made-in-the-mcu/intro-1643308048.jpg
-natasha: https://br.web.img3.acsta.net/newsv7/20/08/18/01/38/2497034.jpg
+natasha: https://www.slashfilm.com/img/gallery/without-scarlett-johansson-the-avengers-plot-would-have-looked-very-different/intro-1641926415.jpg
 clint: https://i.pinimg.com/originals/97/e8/e3/97e8e3a9cfb10653896e82e8bbc4cdcd.jpg
 loki: https://t.ctcdn.com.br/90y754QiH54Tcy6Ml5hGNYu9SIU%3D/600x600/smart/i806005.jpeg
 thanos: https://i1.sndcdn.com/artworks-FT6ljBszJlq1ZGhS-pzNMRQ-t1080x1080.jpg
 wanda: https://www.looper.com/img/gallery/wandavision-episode-9-ending-explained/l-intro-1614946939.jpg
-vision: https://imgix.bustle.com/uploads/image/2021/3/3/42d8c821-c730-4acf-ab64-b1a837190bbe-white-vision-red.jpg?crop=faces&fit=crop&fm=jpg&h=1200&w=1200
+vision: https://conteudo.imguol.com.br/c/entretenimento/2015/05/08/paul-bettany-como-visao-em-vingadores-era-de-ultron-1431127943451_v2_1x1.jpg
 sam: https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A280%2Ccw%3A720%2Cch%3A720%2Cq%3A80%2Cw%3A720/K2EQS4t2yDZapUDgXE7GaV.jpg
 bucky: https://image.idntimes.com/post/20250514/screen-shot-2025-02-11-at-155301-84ead1dd5b25631300cb750f8b7b8f4a-cd78fc2cdbc62cbb4a47ea541a3bab15.png
 yelena: https://www.hindustantimes.com/ht-img/img/2025/04/23/1600x900/florence_pugh_1745408263992_1745408264432.jpg
-strange: https://img.asmedia.epimg.net/resizer/v2/UUKOKKPUVBPLTBSBTFRSSP7LQI.jpg?auth=4eacb54af6cc07ec9d8c3765961f7199297b4d62add89800ed21101ad29057aa&height=1200&smart=true&width=1200
+strange: https://hips.hearstapps.com/vidthumb/images/benedict-cumberbatch-doctor-strange-in-the-multiverse-of-madness-1640189540.jpg?crop=0.405xw%3A1.00xh%3B0.263xw%2C0&resize=1200%3A%2A
 peter: https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/spider-man-brand-new-day-trailer-184656849-1x1.jpg?VersionId=uvKIyj47Tyxp9OPywP1MimnvYNNzyETv
 carol: https://i.pinimg.com/736x/2a/a7/21/2aa7213b68d86ce441e9910a4449be9b.jpg
 monica: https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A280%2Ccw%3A720%2Cch%3A720%2Cq%3A80%2Cw%3A720/gVyBhHUsbxoodWkaZA9wtB.jpg
@@ -54,6 +54,14 @@ galactus: https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A280%2Ccw%3A720%2Cch%3
 banner: https://lumiere-a.akamaihd.net/v1/images/eb_avengers_12502_12523_12540_12473_12539_12496_12490_1_d5b08584.jpeg?region=0%2C0%2C1024%2C769&width=960
 whitevision: https://hips.hearstapps.com/hmg-prod/images/where-did-white-vision-go-1614957426.png?crop=0.421xw%3A1.00xh%3B0.463xw%2C0&resize=1200%3A%2A
 joaquin: https://lumiere-a.akamaihd.net/v1/images/eb_captain-america-bnw_joaquin_th_d7d81813.jpeg?region=0%2C0%2C800%2C800
+hewhoremains: https://imgix.bustle.com/uploads/image/2021/7/29/6739fc82-0520-4a44-9a64-f286ad0bb3e1-screen-shot-2021-07-29-at-112403-am.png?crop=faces&fit=crop&fm=jpg&h=1200&w=1200
+america: https://lumiere-a.akamaihd.net/v1/images/doctor_strange_en_el_multiverso_de_la_locura_banner_ame_cfee805c.jpeg?region=0%2C119%2C770%2C770
+cyclops: https://i.pinimg.com/originals/9d/60/b0/9d60b0024ee2323326ccf83e63eace66.png
+beast: https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-12/kelseygrammerbeast.png?crop=1125%3A633%24&h=e2a3a9b2&width=1125
+gambit: https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A280%2Ccw%3A720%2Cch%3A720%2Cq%3A80%2Cw%3A720/rPg58TY8yBiQ6Y6epx8ZXE.jpg
+mystique: https://ilarge.lisimg.com/image/8389855/740full-raven--slash--mystique-%28rebecca-romijn-%26-jennifer-lawrence%29.jpg
+nightcrawler: https://fr.web.img2.acsta.net/medias/nmedia/18/35/06/08/1-diablo.jpg
+franklin: https://www.denofgeek.com/wp-content/uploads/2025/07/Wee-Baby-Franklin-Richards-in-Fantastic-Four-First-Steps.jpg?fit=2000%2C1077
 
 Scene and film images:
 ironman_mark1: https://ilarge.lisimg.com/image/19467790/1118full-iron-man-mark-i.jpg
@@ -111,9 +119,9 @@ doom_wakanda: https://lumiere-a.akamaihd.net/v1/images/g_disneymovies_avengers_d
 doom_victor: https://lumiere-a.akamaihd.net/v1/images/g_disneymovies_avengers_doomsday_7_02a1ebff.jpeg?region=0%2C0%2C1300%2C730
 doom_steve_thor: https://lumiere-a.akamaihd.net/v1/images/g_disneymovies_avengers_doomsday_8_05bacfcb.jpeg?region=0%2C0%2C1300%2C730
 brandnew: https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-review-tom-hollands-best-outing-yet-puts-the-marvel-hero-through-the-wringer/intro-1785237051.jpg
-
-Previously added scene stills:
+eternals: https://lumiere-a.akamaihd.net/v1/images/cg_marvelstudios_theeternals_mobile_21992_83bc8421.jpeg?region=0%2C32%2C1024%2C576
 loki_tree.jpg: https://images.thedirect.com/media/photos/loki-e-3.jpg
+yggdrasil.jpg: https://gdm-universal-media.b-cdn.net/epicstream/5ff68bbae480be3cf841f2f883da1bd631041fd3-1000x592.png?width=1320
 monica_beast.jpg: https://cdn.mos.cms.futurecdn.net/ah9zL9V6JoZTYimx8oYXXk-1024-80.jpg
 xmen_time.jpg: https://www.expats.cz/images/publishing/articles/2014/05/1280_650/x-men-days-of-future-past-jpg-benqy.webp
 franklin_doom.jpg: https://guardiansofthefandom.com/wp-content/uploads/2025/08/Franklin-Richards-touching-doctor-doom-face-in-fantastic-four-first-steps-post-credit-scene-1024x683.webp
